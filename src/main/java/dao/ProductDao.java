@@ -1,6 +1,5 @@
 package dao;
 
-import com.sun.xml.internal.ws.policy.privateutil.PolicyUtils;
 import model.Product;
 import java.io.FileInputStream;
 import java.io.IOException;
